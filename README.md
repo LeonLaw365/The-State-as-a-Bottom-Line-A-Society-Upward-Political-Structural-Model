@@ -9,8 +9,8 @@ a social-first structural model of the state, using entropy as an analytical fra
 - Why governments and states are structurally unstable over time
 
 ## Manuscripts（paper）
-- Paper_zh.md
-- Paper_en.md
+- paper_zh.md
+- paper_en.md
 
 ## Citation
 A versioned preprint is archived on Zenodo with DOI support.
