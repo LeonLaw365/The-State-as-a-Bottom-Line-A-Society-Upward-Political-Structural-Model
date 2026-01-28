@@ -1,4 +1,3 @@
-# -This repository contains a complete political–social theory paper that proposes a structural model which starts from society and derives the state upward, in order to explain why “the stronger state capacity becomes, the more fragile society becomes,” why the intermediate layers determine the lifespan of a society, and why governments and states exhibit structural instability along the time dimension. The paper does not proceed from moral or ideological positions; instead, it introduces entropy as a structural concept to re-model the relationships among the state, government, and society.
 
 # The State as the Bottom Line: A Political Structural Model Derived from Society
 
@@ -165,8 +164,6 @@ This framework bridges thermodynamics and social theory, offering a unified expl
 
 This paper was completed with assistance from ChatGPT in structuring, clarification, and bilingual expression. All core theoretical claims, structural logic, and analytical judgments are independently developed by the author; AI was used solely as a supportive tool.
 
-
-本仓库收录一篇完整的政治社会理论论文，提出一种从社会出发、向上推导国家的结构模型，用以解释：  为什么“国家能力越强，社会反而越脆弱”  为什么中间层决定社会寿命  为什么政府与国家在时间维度上具有结构性不稳定性  论文并非从道德或意识形态立场出发，而是引入**熵（entropy）**这一结构性概念，对国家、政府与社会的关系进行重新建模。
 
 # 国家作为底线：从社会出发的政治结构模型
 
