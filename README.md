@@ -150,13 +150,41 @@ This paper proposes the following mechanisms:
 
 ---
 
-## 10. Conclusion
+## 10. Technological States and Contemporary Risks
 
-Governments and states are not dangerous because they are evil, but because they are **high-entropy structures**. Without continuous social negentropy input, they cannot maintain order. Moral reform alone cannot solve structural instability.
+Artificial intelligence and digital governance have not eliminated the high-entropy nature of the state; they have merely changed its operational methods. As technological dividends diminish, structural risks will become acutely apparent. True institutional resilience still depends on whether society retains its capacity for self-coordination and self-restraint.
 
-Only by restoring low-entropy social institutions and redefining the state as a boundary mechanism—rather than a total manager—can societies achieve long-term stability.
+---
 
-This framework bridges thermodynamics and social theory, offering a unified explanation for recurring political crises across cultures and eras.
+## 11. From Structural Dilemmas to Feasible Solutions: How to Maintain Order Without Strengthening the State
+
+Having clarified the high-entropy nature of the state and government, an unavoidable question arises: how can society cope with risks, shocks, and cyclical disorder without relying on the continuous expansion of state power? This article argues that the truly feasible solution is not "more rational governance," but rather entropy-reducing design of the structure itself.
+
+### (1) Limiting State Frequency, Rather Than Pursuing State Power
+
+The problem with the state lies not in its existence, but in the frequency of its intervention. When the state shifts from a "last resort in extreme situations" to a "preferred tool for everyday problems," its entropy pressure will accumulate rapidly. A feasible solution is not to weaken the state's coercive power, but to strictly limit the triggering conditions for state intervention in society through institutional design.
+
+ ### (2) Rebuilding the Middle Layer, Not Expanding the Welfare State
+
+The welfare state concentrates risk allocation through state channels, enhancing security in the short term but weakening social self-organization in the long term. A more robust path is to restore non-state-based risk-sharing mechanisms at the industry, local, and community levels.
+
+### (3) Replacing Mobilization Structure with Time Structure
+
+Low-entropy order does not come from continuous mobilization, but from time-based internalization. Symbolic authority, stable constitution, and local autonomy all serve to reduce the frequency of political operations.
+
+### (4) Demobilization of Fiscal and Warfare
+
+Fiscal and warfare are the core channels for the rapid increase of national entropy. Limiting debt expansion and war mobilization capacity is key to controlling national structural risks.
+
+### (5) The Boundaries of Technology
+
+Technology can only delay the entropy problem, not eliminate it. True institutional resilience still comes from society's own coordination and constraint capabilities.
+
+---
+
+## Conclusion
+
+This paper proposes a political structure model with the state as the bottom line, starting from society.  Long-lasting political communities do not pursue the maximization of state power, but rather achieve low-cost stability by retaining a middle layer, limiting the frequency of state activity, and maintaining temporal order. In an era of ever-increasing uncertainty, a renewed understanding of the entropy of the state may be more crucial than any specific institutional design.
 
 ---
 
