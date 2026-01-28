@@ -8,9 +8,7 @@ a social-first structural model of the state, using entropy as an analytical fra
 - Why intermediate social layers determine systemic longevity
 - Why governments and states are structurally unstable over time
 
-## Manuscripts
-- 📄 [Chinese Version](paper/paper_zh.md)
-- 📄 [English Version](paper/paper_en.md)
+## Manuscripts（paper）
 
 ## Citation
 A versioned preprint is archived on Zenodo with DOI support.
