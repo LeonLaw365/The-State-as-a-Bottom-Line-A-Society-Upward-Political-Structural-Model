@@ -1,6 +1,6 @@
 # -This repository contains a complete political–social theory paper that proposes a structural model which starts from society and derives the state upward, in order to explain why “the stronger state capacity becomes, the more fragile society becomes,” why the intermediate layers determine the lifespan of a society, and why governments and states exhibit structural instability along the time dimension. The paper does not proceed from moral or ideological positions; instead, it introduces entropy as a structural concept to re-model the relationships among the state, government, and society.
 
-# Government, State, and High-Entropy Structures: A Thermodynamic Interpretation of Social Order
+# The State as the Bottom Line: A Political Structural Model Derived from Society
 
 ## Abstract
 
