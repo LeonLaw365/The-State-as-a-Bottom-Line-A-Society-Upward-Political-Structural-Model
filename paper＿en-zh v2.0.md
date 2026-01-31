@@ -390,6 +390,7 @@ Understanding the entropy of the state is more critical than any specific instit
 This paper was completed with assistance from ChatGPT in structuring and language refinement. All theoretical arguments and conclusions are the author’s own.
 
 
+---
 
 # 国家作为底线：从社会出发的政治结构模型
 
@@ -526,6 +527,8 @@ This paper was completed with assistance from ChatGPT in structuring and languag
 
 ---
 
-## 
+## 说明
+
+本文在结构整理与语言润色过程中，借助 ChatGPT 作为辅助工具。所有核心理论、结构判断与结论均由作者独立提出
 
 
