@@ -11,7 +11,7 @@ a social-first structural model of the state, using entropy as an analytical fra
 ## Papers
 - 📄 [中文版论文（Chinese Version）](paper_zh.md)
 - 📄 [English Version](paper_en.md)
-- 📄 [Explanation Version](paper_en-zh v2.0 .md)
+- 📄 [Explanation Version](paper_en-zh v2.0.md)
 
 
 ## Citation
