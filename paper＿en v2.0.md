@@ -1,8 +1,8 @@
-## The State as a Bottom Line: A Social-First Model of Political Structure
+# The State as a Bottom Line: A Social-First Model of Political Structure
 
 ---
 
-## Abstract
+# Abstract
 
 Modern political theory typically takes the state as its analytical starting point, treating society as either an object or a byproduct of governance. Historical evidence suggests that long-term political stability depends not on maximizing state capacity, but on preserving social structure and constraining the state to its appropriate role.
 
@@ -44,41 +44,41 @@ Spontaneous survival and relational networks
 Family, neighborhood, industry, customs
 
 
-2. People
+### 2. People
 
 Concrete carriers and practitioners of society
 
 
-3. Religion / Belief
+### 3. Religion / Belief
 
 Ultimate meaning, restraint, sacrifice mechanisms
 
 
-4. Intermediary Structures
+### 4. Intermediary Structures
 
 Gentry, guilds, associations
 
 Coordination, buffering, risk sharing
 
 
-5. Symbolic Authority
+### 5. Symbolic Authority
 
 Monarchy or equivalent
 
 Temporal legitimacy connector
 
 
-6. Government
+### 6. Government
 
 Technical executor of state functions
 
 
-7. State
+### 7. State
 
 Final sovereignty and violence boundary
 
 
-8. Military
+### 8. Military
 
 Physical carrier of bottom-line force
 
@@ -124,17 +124,17 @@ Sole distributor of resources
 
 Intermediary layers perform three core functions:
 
-1. Risk Buffering
+### 1. Risk Buffering
 
 Convert shocks into manageable fluctuations
 
 
-2. Moral Regulation
+### 2. Moral Regulation
 
 Shame, responsibility, informal accountability
 
 
-3. Resource Adjustment
+### 3. Resource Adjustment
 
 Non-state redistribution
 
@@ -332,21 +332,21 @@ Stability depends on social self-coordination capacity
 
 ## 11. Structural Solutions Without State Expansion
 
-1. Limit State Intervention Frequency
+### 1. Limit State Intervention Frequency
 
 Define strict trigger conditions
 
 State as last resort, not first tool
 
 
-2. Rebuild Intermediary Layers
+### 2. Rebuild Intermediary Layers
 
 Avoid nationalized risk pooling
 
 Restore local and professional risk-sharing
 
 
-3. Replace Mobilization with Time Structures
+### 3. Replace Mobilization with Time Structures
 
 Symbolic authority
 
@@ -355,14 +355,14 @@ Stable constitutions
 Local autonomy
 
 
-3. De-incentivize Fiscal Expansion and War
+### 4. De-incentivize Fiscal Expansion and War
 
 Hard budget constraints
 
 War capability limits
 
 
-4. Define Technology Boundaries
+### 5. Define Technology Boundaries
 
 Technology delays but cannot remove structural tension
 
