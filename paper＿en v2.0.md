@@ -2,7 +2,7 @@
 
 ---
 
-##Abstract
+## Abstract
 
 Modern political theory typically takes the state as its analytical starting point, treating society as either an object or a byproduct of governance. Historical evidence suggests that long-term political stability depends not on maximizing state capacity, but on preserving social structure and constraining the state to its appropriate role.
 
