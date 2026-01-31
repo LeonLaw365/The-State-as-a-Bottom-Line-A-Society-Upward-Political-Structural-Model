@@ -37,48 +37,48 @@ The state is a minimum safeguard constructed under extreme pressure, not the ori
 
 Layered Structure (Bottom-Up)
 
-1. Society
+a. Society
 
 Spontaneous survival and relational networks
 
 Family, neighborhood, industry, customs
 
 
-2. People
+b. People
 
 Concrete carriers and practitioners of society
 
 
-3. Religion / Belief
+c. Religion / Belief
 
 Ultimate meaning, restraint, sacrifice mechanisms
 
 
-4. Intermediary Structures
+d. Intermediary Structures
 
 Gentry, guilds, associations
 
 Coordination, buffering, risk sharing
 
 
-5. Symbolic Authority
+e. Symbolic Authority
 
 Monarchy or equivalent
 
 Temporal legitimacy connector
 
 
-6. Government
+f. Government
 
 Technical executor of state functions
 
 
-7. State
+g. State
 
 Final sovereignty and violence boundary
 
 
-8. Military
+h. Military
 
 Physical carrier of bottom-line force
 
