@@ -8,13 +8,11 @@ Modern political theory typically takes the state as its analytical starting poi
 
 This paper proposes a bottom-up political model derived from society upward. Through comparative analysis of the French Revolution, Switzerland, Thailand, and Singapore, the state is redefined as the final safeguard of society rather than its daily ruler.
 
-
 ---
 
 Keywords
 
 state theory · social structure · intermediary layers · entropy · political stability
-
 
 ---
 
@@ -26,15 +24,12 @@ States can collapse while societies persist.
 
 High state capacity often correlates with long-term fragility.
 
-
 Core claim:
 
 > Political analysis must start from society, not the state.
 
 
-
 The state is a minimum safeguard constructed under extreme pressure, not the origin of social order.
-
 
 ---
 
