@@ -44,17 +44,14 @@ Spontaneous survival and relational networks
 Family, neighborhood, industry, customs
 
 
-
 2. People
 
 Concrete carriers and practitioners of society
 
 
-
 3. Religion / Belief
 
 Ultimate meaning, restraint, sacrifice mechanisms
-
 
 
 4. Intermediary Structures
@@ -64,7 +61,6 @@ Gentry, guilds, associations
 Coordination, buffering, risk sharing
 
 
-
 5. Symbolic Authority
 
 Monarchy or equivalent
@@ -72,11 +68,9 @@ Monarchy or equivalent
 Temporal legitimacy connector
 
 
-
 6. Government
 
 Technical executor of state functions
-
 
 
 7. State
@@ -84,19 +78,14 @@ Technical executor of state functions
 Final sovereignty and violence boundary
 
 
-
 8. Military
 
 Physical carrier of bottom-line force
 
 
-
-
 Key Criterion:
 
-> Whether the state is constrained as a bottom-line structure or elevated into a daily governing主体.
-
-
+> Whether the state is constrained as a bottom-line structure or elevated into a daily governing.
 
 
 ---
@@ -114,7 +103,6 @@ External invasion
 Internal violence
 
 Fundamental order breakdown
-
 
 
 When the state becomes:
@@ -141,18 +129,14 @@ Intermediary layers perform three core functions:
 Convert shocks into manageable fluctuations
 
 
-
 2. Moral Regulation
 
 Shame, responsibility, informal accountability
 
 
-
 3. Resource Adjustment
 
 Non-state redistribution
-
-
 
 
 Without intermediaries:
@@ -164,7 +148,6 @@ Society enters a bare exposure state
 Structural risk rises sharply
 
 
-
 ---
 
 5. Entropy, Time, and Political Structures
@@ -172,7 +155,6 @@ Structural risk rises sharply
 Entropy (Social Science Definition):
 
 > Irreversible time-cost required to maintain order.
-
 
 
 Characteristics
@@ -190,11 +172,9 @@ Policy revision
 Conflict arbitration
 
 
-
 Conclusion:
 
 > State instability is structural, not moral.
-
 
 
 High-entropy systems must continuously consume social anti-entropy resources.
@@ -265,7 +245,6 @@ Short-term state capacity ↑
 Long-term social capacity ↓
 
 
-
 ---
 
 8. Comparative Cases
@@ -278,9 +257,7 @@ Government handles daily affairs
 
 Real intermediary layers exist
 
-
 Result: low efficiency, high resilience
-
 
 ---
 
@@ -292,9 +269,7 @@ Guild traditions
 
 Restrained state power
 
-
 Result: low entropy without monarchy
-
 
 ---
 
@@ -306,9 +281,7 @@ Absorbed intermediary fiscal roles
 
 Society dependent on income stability
 
-
 Result: high sensitivity to cycles and shocks
-
 
 ---
 
@@ -317,7 +290,6 @@ Result: high sensitivity to cycles and shocks
 Core Misjudgment:
 
 > Confusing centralization with anti-entropy.
-
 
 
 Structural Facts
@@ -338,7 +310,6 @@ Long-term social atrophy
 Systemic failure
 
 
-
 ---
 
 10. Technological States and Modern Risk
@@ -355,7 +326,6 @@ When technological dividends decline:
 Structural risks concentrate
 
 Stability depends on social self-coordination capacity
-
 
 
 ---
@@ -397,7 +367,6 @@ War capability limits
 Technology delays but cannot remove structural tension
 
 
-
 ---
 
 Conclusion
@@ -412,5 +381,10 @@ Maintaining temporal order
 
 
 Understanding the entropy of the state is more critical than any specific institutional design in an era of rising uncertainty.
+
+
+---
+
+
 
 
