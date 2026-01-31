@@ -7,6 +7,7 @@ a social-first structural model of the state, using entropy as an analytical fra
 - Why stronger state capacity can lead to weaker societies
 - Why intermediate social layers determine systemic longevity
 - Why governments and states are structurally unstable over time
+- Why individual and family resilience depends on integration into low-entropy social structures, rather than on state solutions
 
 ## Citation
 A versioned preprint is archived on Zenodo with DOI support.
