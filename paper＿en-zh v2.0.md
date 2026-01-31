@@ -1,4 +1,4 @@
-# The State as a Bottom Line: A Social-First Model of Political Structure
+ # The State as a Bottom Line: A Social-First Model of Political Structure
 
 ---
 
