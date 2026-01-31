@@ -124,17 +124,17 @@ Sole distributor of resources
 
 Intermediary layers perform three core functions:
 
-1. Risk Buffering
+a. Risk Buffering
 
 Convert shocks into manageable fluctuations
 
 
-2. Moral Regulation
+b. Moral Regulation
 
 Shame, responsibility, informal accountability
 
 
-3. Resource Adjustment
+c. Resource Adjustment
 
 Non-state redistribution
 
@@ -332,21 +332,21 @@ Stability depends on social self-coordination capacity
 
 11. Structural Solutions Without State Expansion
 
-11.1 Limit State Intervention Frequency
+a. Limit State Intervention Frequency
 
 Define strict trigger conditions
 
 State as last resort, not first tool
 
 
-11.2 Rebuild Intermediary Layers
+b. Rebuild Intermediary Layers
 
 Avoid nationalized risk pooling
 
 Restore local and professional risk-sharing
 
 
-11.3 Replace Mobilization with Time Structures
+c. Replace Mobilization with Time Structures
 
 Symbolic authority
 
@@ -355,14 +355,14 @@ Stable constitutions
 Local autonomy
 
 
-11.4 De-incentivize Fiscal Expansion and War
+e. De-incentivize Fiscal Expansion and War
 
 Hard budget constraints
 
 War capability limits
 
 
-11.5 Define Technology Boundaries
+f. Define Technology Boundaries
 
 Technology delays but cannot remove structural tension
 
