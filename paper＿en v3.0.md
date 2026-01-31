@@ -138,3 +138,7 @@ Conclusion: When the State Returns to the Bottom Line, Society Regains Time
 This paper does not present a blueprint for an ideal society. It offers a structural model for understanding political stability and social endurance. When the state is returned to its bottom-line position, intermediate layers recover, welfare re-embeds in society, individuals orient toward self-development, and overall social entropy declines.
 
 In such a structure, stability arises not from control, but from reversibility, recoverability, and the redistribution of time.
+
+---
+
+Note：In the process of structural organization and language polishing, this paper used artificial intelligence tools as assistance. All core theories, structural judgments, and conclusions were independently proposed by the author, who bears full responsibility for them.
