@@ -37,7 +37,7 @@ The state is a minimum safeguard constructed under extreme pressure, not the ori
 
 Layered Structure (Bottom-Up)
 
-＃＃＃ 1. Society
+### 1. Society
 
 Spontaneous survival and relational networks
 
