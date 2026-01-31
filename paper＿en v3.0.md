@@ -75,7 +75,6 @@ Stability must not be achieved by freezing mobility or eliminating recoverabilit
 
 These principles are not moral judgments, but structural criteria for determining whether a society remains within a low-entropy range.
 
-
 ---
 
 Chapter V: State Welfare, Social Welfare, and the Differentiation of Time Structures
