@@ -1,4 +1,4 @@
-##The State as a Bottom Line: A Social-First Model of Political Structure
+## The State as a Bottom Line: A Social-First Model of Political Structure
 
 ---
 
@@ -16,7 +16,7 @@ state theory · social structure · intermediary layers · entropy · political 
 
 ---
 
-##1. Problem Statement: Why Start from Society
+## 1. Problem Statement: Why Start from Society
 
 Modern political discourse assumes the state as the primary actor. However, historical patterns show:
 
@@ -33,52 +33,52 @@ The state is a minimum safeguard constructed under extreme pressure, not the ori
 
 ---
 
-##2. Minimal Complete Social–Political Structure Model
+## 2. Minimal Complete Social–Political Structure Model
 
 Layered Structure (Bottom-Up)
 
-a. Society
+1. Society
 
 Spontaneous survival and relational networks
 
 Family, neighborhood, industry, customs
 
 
-b. People
+2. People
 
 Concrete carriers and practitioners of society
 
 
-c. Religion / Belief
+3. Religion / Belief
 
 Ultimate meaning, restraint, sacrifice mechanisms
 
 
-d. Intermediary Structures
+4. Intermediary Structures
 
 Gentry, guilds, associations
 
 Coordination, buffering, risk sharing
 
 
-e. Symbolic Authority
+5. Symbolic Authority
 
 Monarchy or equivalent
 
 Temporal legitimacy connector
 
 
-f. Government
+6. Government
 
 Technical executor of state functions
 
 
-g. State
+7. State
 
 Final sovereignty and violence boundary
 
 
-h. Military
+8. Military
 
 Physical carrier of bottom-line force
 
@@ -90,7 +90,7 @@ Key Criterion:
 
 ---
 
-##3. State and Government Positioning
+## 3. State and Government Positioning
 
 Derived Rules:
 
@@ -120,21 +120,21 @@ Sole distributor of resources
 
 ---
 
-##4. Intermediary Layers and Social Risk Consumption
+## 4. Intermediary Layers and Social Risk Consumption
 
 Intermediary layers perform three core functions:
 
-a. Risk Buffering
+1. Risk Buffering
 
 Convert shocks into manageable fluctuations
 
 
-b. Moral Regulation
+2. Moral Regulation
 
 Shame, responsibility, informal accountability
 
 
-c. Resource Adjustment
+3. Resource Adjustment
 
 Non-state redistribution
 
@@ -150,7 +150,7 @@ Structural risk rises sharply
 
 ---
 
-##5. Entropy, Time, and Political Structures
+## 5. Entropy, Time, and Political Structures
 
 Entropy (Social Science Definition):
 
@@ -182,7 +182,7 @@ High-entropy systems must continuously consume social anti-entropy resources.
 
 ---
 
-##6. Why Symbolic Authority Is Low-Entropy
+## 6. Why Symbolic Authority Is Low-Entropy
 
 Symbolic authority (e.g., monarchy):
 
@@ -215,7 +215,7 @@ High-frequency governance
 
 ---
 
-##7. French Revolution as a Structural Counterexample
+## 7. French Revolution as a Structural Counterexample
 
 Not merely a regime change, but a structural inversion:
 
@@ -247,7 +247,7 @@ Long-term social capacity ↓
 
 ---
 
-##8. Comparative Cases
+## 8. Comparative Cases
 
 Thailand
 
@@ -285,7 +285,7 @@ Result: high sensitivity to cycles and shocks
 
 ---
 
-##9. Structural Dilemma of Socialism
+## 9. Structural Dilemma of Socialism
 
 Core Misjudgment:
 
@@ -312,7 +312,7 @@ Systemic failure
 
 ---
 
-##10. Technological States and Modern Risk
+## 10. Technological States and Modern Risk
 
 Digital governance and AI:
 
@@ -330,23 +330,23 @@ Stability depends on social self-coordination capacity
 
 ---
 
-##11. Structural Solutions Without State Expansion
+## 11. Structural Solutions Without State Expansion
 
-a. Limit State Intervention Frequency
+1. Limit State Intervention Frequency
 
 Define strict trigger conditions
 
 State as last resort, not first tool
 
 
-b. Rebuild Intermediary Layers
+2. Rebuild Intermediary Layers
 
 Avoid nationalized risk pooling
 
 Restore local and professional risk-sharing
 
 
-c. Replace Mobilization with Time Structures
+3. Replace Mobilization with Time Structures
 
 Symbolic authority
 
@@ -355,21 +355,21 @@ Stable constitutions
 Local autonomy
 
 
-e. De-incentivize Fiscal Expansion and War
+3. De-incentivize Fiscal Expansion and War
 
 Hard budget constraints
 
 War capability limits
 
 
-f. Define Technology Boundaries
+4. Define Technology Boundaries
 
 Technology delays but cannot remove structural tension
 
 
 ---
 
-##Conclusion
+## Conclusion
 
 Political durability depends on:
 
