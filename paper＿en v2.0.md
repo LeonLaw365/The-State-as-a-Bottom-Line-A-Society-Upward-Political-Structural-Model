@@ -1,10 +1,5 @@
 The State as a Bottom Line: A Social-First Model of Political Structure
 
-> Repository-ready GitHub Markdown (README.md style)
-
-
-
-
 ---
 
 Abstract
