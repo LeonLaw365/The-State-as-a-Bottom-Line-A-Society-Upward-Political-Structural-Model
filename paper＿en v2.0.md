@@ -1,8 +1,8 @@
-The State as a Bottom Line: A Social-First Model of Political Structure
+##The State as a Bottom Line: A Social-First Model of Political Structure
 
 ---
 
-Abstract
+##Abstract
 
 Modern political theory typically takes the state as its analytical starting point, treating society as either an object or a byproduct of governance. Historical evidence suggests that long-term political stability depends not on maximizing state capacity, but on preserving social structure and constraining the state to its appropriate role.
 
@@ -16,7 +16,7 @@ state theory · social structure · intermediary layers · entropy · political 
 
 ---
 
-1. Problem Statement: Why Start from Society
+##1. Problem Statement: Why Start from Society
 
 Modern political discourse assumes the state as the primary actor. However, historical patterns show:
 
@@ -33,7 +33,7 @@ The state is a minimum safeguard constructed under extreme pressure, not the ori
 
 ---
 
-2. Minimal Complete Social–Political Structure Model
+##2. Minimal Complete Social–Political Structure Model
 
 Layered Structure (Bottom-Up)
 
@@ -90,7 +90,7 @@ Key Criterion:
 
 ---
 
-3. State and Government Positioning
+##3. State and Government Positioning
 
 Derived Rules:
 
@@ -120,7 +120,7 @@ Sole distributor of resources
 
 ---
 
-4. Intermediary Layers and Social Risk Consumption
+##4. Intermediary Layers and Social Risk Consumption
 
 Intermediary layers perform three core functions:
 
@@ -150,7 +150,7 @@ Structural risk rises sharply
 
 ---
 
-5. Entropy, Time, and Political Structures
+##5. Entropy, Time, and Political Structures
 
 Entropy (Social Science Definition):
 
@@ -182,7 +182,7 @@ High-entropy systems must continuously consume social anti-entropy resources.
 
 ---
 
-6. Why Symbolic Authority Is Low-Entropy
+##6. Why Symbolic Authority Is Low-Entropy
 
 Symbolic authority (e.g., monarchy):
 
@@ -215,7 +215,7 @@ High-frequency governance
 
 ---
 
-7. French Revolution as a Structural Counterexample
+##7. French Revolution as a Structural Counterexample
 
 Not merely a regime change, but a structural inversion:
 
@@ -247,7 +247,7 @@ Long-term social capacity ↓
 
 ---
 
-8. Comparative Cases
+##8. Comparative Cases
 
 Thailand
 
@@ -285,7 +285,7 @@ Result: high sensitivity to cycles and shocks
 
 ---
 
-9. Structural Dilemma of Socialism
+##9. Structural Dilemma of Socialism
 
 Core Misjudgment:
 
@@ -312,7 +312,7 @@ Systemic failure
 
 ---
 
-10. Technological States and Modern Risk
+##10. Technological States and Modern Risk
 
 Digital governance and AI:
 
@@ -330,7 +330,7 @@ Stability depends on social self-coordination capacity
 
 ---
 
-11. Structural Solutions Without State Expansion
+##11. Structural Solutions Without State Expansion
 
 a. Limit State Intervention Frequency
 
@@ -369,7 +369,7 @@ Technology delays but cannot remove structural tension
 
 ---
 
-Conclusion
+##Conclusion
 
 Political durability depends on:
 
@@ -385,6 +385,9 @@ Understanding the entropy of the state is more critical than any specific instit
 
 ---
 
+## Acknowledgement
+
+This paper was completed with assistance from ChatGPT in structuring and language refinement. All theoretical arguments and conclusions are the author’s own.
 
 
 
